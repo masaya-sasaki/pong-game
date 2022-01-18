@@ -15,13 +15,13 @@
  and creating an array and adding the keys that are pressed
 
 
- TODO: next thing is to add interactivity
+ TODO: next thing is to add interactivity - done
  1. key handling thorugh adding eventlistener, keydown, keyup, creating an array with the key of 
  what is pressed. Then create a funciton that handles that. - done 
 
- 2. then add how the ball detects the height collision and width collision and change of movements
+ 2. then add how the ball detects the height collision and width collision and change of movements - done
 
- 3. lastly, i will add collision detection and change the score once the ball gets passed 
+ 3. lastly, i will add collision detection and change the score once the ball gets passed -done 
 */
 
 // Get the canvas and context from DOM tree. 
